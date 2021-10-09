@@ -3,12 +3,13 @@
 [![Patreon][patreon-badge]][patreon]
 [![Liberapay][liberapay-badge]][liberapay]
 [![Ko-Fi][kofi-badge]][kofi]
-
-## Installation
-Copy `Avocado.xml` file into `themes` folder in the notepad++ installed directory.
+----
 
 # Avocado - A Custom theme for [Notepad++](https://notepad-plus-plus.org/)
 ![image](https://user-images.githubusercontent.com/53261024/136593629-84cdb733-ed43-4d56-aac8-a110daba2530.png)
+
+## Installation
+Copy `Avocado.xml` file into `themes` folder in the notepad++ installed directory.
 
 
 [patreon-badge]: https://img.shields.io/badge/Support-Become%20a%20Patreon!-red.svg
