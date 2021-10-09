@@ -11,10 +11,6 @@ Copy `Avocado.xml` file into `themes` folder in the notepad++ installed director
 ![image](https://user-images.githubusercontent.com/53261024/136593629-84cdb733-ed43-4d56-aac8-a110daba2530.png)
 
 
-
-
-
-
 [patreon-badge]: https://img.shields.io/badge/Support-Become%20a%20Patreon!-red.svg
 [patreon]: https://www.patreon.com/join/andy_fazulus?
 [liberapay-badge]: https://img.shields.io/badge/Liberapay-Donate-%23f6c915.svg
